@@ -1,0 +1,25 @@
+.toolbar {
+    background: #005595;
+    height: 50px;
+    font-size: 14px;
+    display: flex;
+    color: #fff;
+    font-family: "Source Sans Pro", arial, sans-serif;
+}
+
+.link{
+    flex-shrink: 0;
+    margin: 10px;
+    padding: 10px;
+}
+
+.link:hover {
+    color: #000;
+}
+
+.title{
+    flex: 1;
+    color: #094069;
+    font-family: "Source Sans Pro", fantasy;
+    letter-spacing: 1px;
+}
